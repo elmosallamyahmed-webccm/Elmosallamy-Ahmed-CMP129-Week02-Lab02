@@ -24,4 +24,4 @@ public class Person {
     public void Display(){
         System.out.printf("Name: %s || Age: %d || Email: %s%n", name, age, email);
     }
-}
+} 
